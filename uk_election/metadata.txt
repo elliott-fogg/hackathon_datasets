@@ -1,0 +1,2 @@
+This will include a description, as best I can find/make, of the meaning of each column in each of the provided datafiles.
+WIP.
