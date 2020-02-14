@@ -1,0 +1,19 @@
+{
+    "BioTIMEMetadata_02_04_2018.csv": {
+        "cdt_link": "https://datasync.ed.ac.uk/index.php/s/dnhQqfno9HwSvL8?path=%2Fbiotime",
+        "raw_data_link": "http://biotime.st-andrews.ac.uk/downloadFull.php"
+    },
+    "BioTIMEQuery02_04_2018.csv": {
+        "cdt_link": "https://datasync.ed.ac.uk/index.php/s/dnhQqfno9HwSvL8?path=%2Fbiotime",
+        "raw_data_link": "http://biotime.st-andrews.ac.uk/downloadFull.php"
+    },
+    "bioTIMETables_09_02_2017.pdf": {
+        "cdt_link": "https://datasync.ed.ac.uk/index.php/s/dnhQqfno9HwSvL8?path=%2Fbiotime",
+        "raw_data_link": "http://biotime.st-andrews.ac.uk/downloadFull.php"
+    },
+    "metadata": {
+        "cdt_link": "https://datasync.ed.ac.uk/index.php/s/dnhQqfno9HwSvL8?path=%2Fbiotime",
+        "comments": "Original file in binary format. Opened in Excel and resaved as metadata.csv.",
+        "original_file": "BioTIMEMetadata_02_04_2018.csv"
+    }
+}
