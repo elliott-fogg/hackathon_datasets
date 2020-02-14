@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 */data/*
 !*/data/data_sources.txt
+*/additional_data/*
