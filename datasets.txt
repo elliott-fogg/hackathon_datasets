@@ -1,0 +1,27 @@
+Valid Datasets:
+* UK General Elections
+* Olympic Athletes
+* US Traffic Accidents
+
+
+
+Potential Datasets:
+* UK Driving Tests
+* US Traffic Accidents
+* BioTIME
+* WHO Indicators
+* NHS General Practise Datahub
+
+
+
+Unsure Datasets:
+* Seattle Public Library - More data needed
+* Spotify Track Data - Need to acquire more songs
+* AirBnB Data ???
+
+
+
+Suggested Datasets:
+* General Social Survey
+* USGS Earthquakes - Need to find the main database
+* Gridded Population of the World
