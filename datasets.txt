@@ -1,14 +1,12 @@
 Valid Datasets:
 * UK General Elections
-* Olympic Athletes
 * US Traffic Accidents
-
-
+* BioTIME
+* General Social Survey
+* Olympic Athletes
 
 Potential Datasets:
 * UK Driving Tests
-* US Traffic Accidents
-* BioTIME
 * WHO Indicators
 * NHS General Practise Datahub
 
@@ -22,6 +20,6 @@ Unsure Datasets:
 
 
 Suggested Datasets:
-* General Social Survey
+
 * USGS Earthquakes - Need to find the main database
 * Gridded Population of the World
