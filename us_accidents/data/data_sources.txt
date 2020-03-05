@@ -1,2 +1,0 @@
-original_file: 'https://smoosavi.org/datasets/us_accidents'
-uploaded_file: 'https://datasync.ed.ac.uk/index.php/s/dnhQqfno9HwSvL8?path=%2Fus_accidents'

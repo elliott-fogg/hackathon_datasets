@@ -1,7 +1,0 @@
-EU-referendum-result-data.csv
-HoC-GE2017-constituency-results.csv
-HoC-GE2017-results-by-candidate.csv
-HoC-GE2019-results-by-candidate.csv
-HoC-GE2019-results-by-constituency.csv
-
-Source: https://datasync.ed.ac.uk/index.php/s/dnhQqfno9HwSvL8?path=%2Fuk_election

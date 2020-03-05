@@ -4,3 +4,5 @@
 */additional_data/*
 !_example_scripts/data/
 __pycache__/
+_completed_datasets/*/data
+*/supporting_documents/*
