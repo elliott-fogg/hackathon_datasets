@@ -1,0 +1,30 @@
+GSS Data:
+
+
+* Evaluate the timing on the translate_variables() function for the GSS data.
+
+
+* Check the websites and documentation for the GSS data.
+
+US Accidents:
+Check everything is working
+Come up with some example questions
+
+UK Elections:
+Find some constituency data
+Come up with some example questions
+
+Spotify:
+Work out how to unzip downloaded fileset
+Finish creating master file
+Create introductory notebook
+Come up with example questions
+
+BioTIME:
+Check that the dataset imports correctly
+Finish polishing intro notebook
+Email Rita about requirements for Faye
+
+Olympic Athletes:
+Polish
+Come up with example questions
