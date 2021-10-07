@@ -1,5 +1,5 @@
 .ipynb_checkpoints/
-*/data/*
+data/
 !*/data/data_sources.txt
 */additional_data/*
 !_example_scripts/data/
